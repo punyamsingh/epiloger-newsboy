@@ -3,15 +3,12 @@ import { Link } from 'react-router-dom'
 // import PropTypes from 'prop-types'
 
 export class NavBar extends Component {
-    // static propTypes = {
-
-    // }
-
     render() {
         return (
             <div>
                 <nav className="navbar fixed-top navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
                     <div className="container-fluid">
+                        <img src="./logo192.png" alt="" width={40} height={38} style={{margin: "0px 5px 0px 5px"}}/>
                         <Link className="navbar-brand" to="/">
                             NewsMonkey
                         </Link >
