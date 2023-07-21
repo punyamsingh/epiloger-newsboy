@@ -1,3 +1,6 @@
+Due to API restrictions, though this app is hosted on netlify, it won't work
+run it in localhost.
+
 In the project directory, you can run:
 ### `npm start`
 Runs the app in the development mode.\
