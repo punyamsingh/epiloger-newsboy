@@ -9,7 +9,7 @@ const NavBar = () => {
                 <div className="container-fluid">
                     <img src="./logo192.png" alt="" width={40} height={38} style={{ margin: "0px 5px 0px 5px" }} />
                     <Link className="navbar-brand" to="/">
-                        NewsMonkey
+                        NewsBoy
                     </Link >
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
