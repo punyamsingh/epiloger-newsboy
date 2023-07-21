@@ -1,4 +1,5 @@
-Due to API restrictions, though this app is hosted on netlify, it won't work
+Due to API restrictions, though this app is hosted on netlify, it won't work as expected./
+
 run it in localhost.
 
 In the project directory, you can run:
